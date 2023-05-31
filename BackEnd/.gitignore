@@ -1,0 +1,3 @@
+# Server-related files to ignore in the server directory
+node_modules/
+.env
